@@ -1,0 +1,80 @@
+* {
+    padding: 0PX;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.head {
+    color: gray;
+}
+
+.row {
+    display: flex;
+    flex-direction: column;
+}
+
+.customer {
+    
+}
+
+.date {
+    margin-left: 20px;
+    color: gray;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.name {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.mich__pic {
+    width: 100%;
+    max-width: 100px;
+    border-radius: 50px;
+}
+
+.text {
+    margin-top: 40px;
+    color: gray;
+}
+
+.heading {
+    margin-bottom: 120px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.container {
+    padding: 0 16px;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.info__container  {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    padding: 24px 0;
+}
+
+.customer__info  {
+    display: flex;
+    align-items: center;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    padding: 56px 0;
+}
+
+.table__img {
+    width: 100%;
+}
+
+.image {
+    max-width: 100%;
+}

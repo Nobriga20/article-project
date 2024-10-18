@@ -44,6 +44,7 @@
     margin-bottom: 120px;
     margin-left: 50px;
     font-size: 20px;
+    margin-top: 150px;
 }
 
 .container {
@@ -63,16 +64,20 @@
 .customer__info  {
     display: flex;
     align-items: center;
+    
 }
 
 .wrapper {
     display: flex;
     align-items: center;
-    padding: 56px 0;
+    border: 2px solid gray;
+    border-radius: 10px;
+    
 }
 
 .table__img {
     width: 100%;
+    max-width: 500px;
 }
 
 .image {
